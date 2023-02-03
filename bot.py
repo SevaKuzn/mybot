@@ -1,7 +1,7 @@
 import telebot
 import random
 
-answers = ['Да', 'Нет', 'Не знаю', 'Лучше даже не думай об этом', 'Конечно', 'Не скажу' ]
+answers = ['Да', 'Нет', 'Не знаю', 'Лучше даже не думай об этом', 'Конечно', 'Не скажу','Возможно' ]
 
 bot = telebot.TeleBot('6048432384:AAHveB2iuqoG5OsUcb3BqOnWPbRJ95aMXIQ')
 
